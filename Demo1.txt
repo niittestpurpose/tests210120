@@ -1,3 +1,5 @@
 1. Write a Program to check whether given number is even or odd.
 
 2. Write a Program to check whether given year is a leap year.
+
+3. Write a Program to display from 1 to 10.
